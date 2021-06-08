@@ -1,0 +1,10 @@
+{
+    "name": "lenovo/ilham",
+    "description": "composer kedua",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "nesbot/carbon": "^2.46",
+        "google/apiclient": "^2.9"
+    }
+}
